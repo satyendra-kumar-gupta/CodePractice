@@ -1,0 +1,21 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À÷Ş„ıÿÿÿÿ8ÃëîÔÀ1
+7
+java:S1220""Move this file to a named package.8ÄëîÔÀ1
+L
+java:S1197"*Move the array designators [] to the type.(šµ¦¶úÿÿÿÿ8êëîÔÀ1
+]	java:S125	"<This block of commented-out lines of code should be removed.(âí‹Öşÿÿÿÿ8ëëîÔÀ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¤·¥Âşÿÿÿÿ8îëîÔÀ1
+L	java:S106"+Replace this use of System.out by a logger.(¤·¥Âşÿÿÿÿ8îëîÔÀ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(­šÕÅûÿÿÿÿ8ïëîÔÀ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ü•ıâÿÿÿÿÿ8ïëîÔÀ1
+G
+java:S3457"%String contains no format specifiers.(Ü•ıâÿÿÿÿÿ8ïëîÔÀ1
+L	java:S106"+Replace this use of System.out by a logger.(Ü•ıâÿÿÿÿÿ8ğëîÔÀ1
+L
+java:S1197$"*Move the array designators [] to the type.(•®Äìüÿÿÿÿ8»à¥æÀ1
+X	java:S125#"<This block of commented-out lines of code should be removed.(­çğ8ìî¥æÀ1

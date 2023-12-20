@@ -1,0 +1,9 @@
+
+;
+java:S3010	"Remove this assignment of "t".(¨‹­8—é¸ÀÄ1
+L	java:S106"+Replace this use of System.out by a logger.(´œàÚÿÿÿÿÿ8™é¸ÀÄ1
+L	java:S106"+Replace this use of System.out by a logger.(ÉĞ‚¤ûÿÿÿÿ8›é¸ÀÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ºçÛõ8œé¸ÀÄ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ÀŞı8é¸ÀÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ºçÛõ8é¸ÀÄ1

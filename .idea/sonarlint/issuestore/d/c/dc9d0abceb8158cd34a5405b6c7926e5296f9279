@@ -1,0 +1,14 @@
+
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(Ù‚ªšùÿÿÿÿ8ıã¬ñÄ1
+F
+java:S1197"*Move the array designators [] to the type.(ˆô8¨ä¬ñÄ1
+L	java:S106"+Replace this use of System.out by a logger.(õ½“¨ùÿÿÿÿ8ªä¬ñÄ1
+U
+java:S1854$"8Remove this useless assignment to local variable "high".( —«8«ä¬ñÄ1
+Y
+java:S1854#"7Remove this useless assignment to local variable "low".(ÛÃŞ°ÿÿÿÿÿ8«ä¬ñÄ1
+J
+java:S1481#"(Remove this unused "low" local variable.(ÛÃŞ°ÿÿÿÿÿ8¬ä¬ñÄ1
+F
+java:S1481$")Remove this unused "high" local variable.( —«8¬ä¬ñÄ1

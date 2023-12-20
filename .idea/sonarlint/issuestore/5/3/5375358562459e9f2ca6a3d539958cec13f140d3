@@ -1,0 +1,10 @@
+
+Y
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(‹ìÈ úÿÿÿÿ8ÁØ½—Â1
+L	java:S106	"+Replace this use of System.out by a logger.(ã—ò£þÿÿÿÿ8¬ú»—Â1
+L	java:S106
+"+Replace this use of System.out by a logger.(Õ—Õÿüÿÿÿÿ8­ú»—Â1
+L	java:S106"+Replace this use of System.out by a logger.(§‡ßÊøÿÿÿÿ8¯ú»—Â1
+L	java:S106"+Replace this use of System.out by a logger.(‹ìÈ úÿÿÿÿ8°ú»—Â1
+d
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(‹ìÈ úÿÿÿÿ8²ú»—Â1

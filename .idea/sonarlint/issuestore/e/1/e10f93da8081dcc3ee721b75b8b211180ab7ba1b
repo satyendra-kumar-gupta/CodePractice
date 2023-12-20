@@ -1,0 +1,15 @@
+
+r
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿ8ÎûÙ‡Ã1
+m
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(·ÕõŒ8ÎûÙ‡Ã1
+m
+java:S1104"PMake head a static final constant or non-public and provide accessors if needed.(Êº¼ñ8ÎûÙ‡Ã1
+r
+java:S1104"PMake tail a static final constant or non-public and provide accessors if needed.(ûœÑ¹ÿÿÿÿÿ8ÎûÙ‡Ã1
+l
+java:S1104"PMake back a static final constant or non-public and provide accessors if needed.(ÓßR8ÎûÙ‡Ã1
+L	java:S106;"+Replace this use of System.out by a logger.(úÍ“…ùÿÿÿÿ8íûÙ‡Ã1
+L	java:S106?"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8íûÙ‡Ã1
+L	java:S106l"+Replace this use of System.out by a logger.(¬Ùïÿÿÿÿÿ8íûÙ‡Ã1
+G	java:S106r"+Replace this use of System.out by a logger.(¦íÔŞ8íûÙ‡Ã1

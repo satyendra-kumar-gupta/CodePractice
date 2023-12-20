@@ -1,0 +1,15 @@
+
+T
+java:S36557"7Call "Optional#isPresent()" before accessing the value.(Ñ™ñŽ8óÝ©¨À1
+Y
+java:S3655="7Call "Optional#isPresent()" before accessing the value.(äŒã°ýÿÿÿÿ8òÝ©¨À1
+]	java:S125"<This block of commented-out lines of code should be removed.(”²°•ùÿÿÿÿ8Í²§¨À1
+G	java:S106""+Replace this use of System.out by a logger.(”¯¶¦8Ï²§¨À1
+L	java:S106)"+Replace this use of System.out by a logger.(ÉŽæþÿÿÿÿ8Ñ²§¨À1
+G	java:S106."+Replace this use of System.out by a logger.(ÒÁÖ„8Ó²§¨À1
+L	java:S1062"+Replace this use of System.out by a logger.(ŠÎŸÉùÿÿÿÿ8Õ²§¨À1
+L	java:S1068"+Replace this use of System.out by a logger.(æÃ­ùÿÿÿÿ8Ö²§¨À1
+G	java:S106>"+Replace this use of System.out by a logger.(§ö˜™8Ù²§¨À1
+L	java:S106G"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8Ú²§¨À1
+G	java:S106L"+Replace this use of System.out by a logger.(†×¥­8Ü²§¨À1
+L	java:S106R"+Replace this use of System.out by a logger.(éé¡Üúÿÿÿÿ8ŒÃª¨À1
