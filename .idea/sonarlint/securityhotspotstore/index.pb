@@ -67,3 +67,6 @@ V
 &src/main/java/com/thread/MyThread.java,d\8\d84f5d1ffb70bf266bdcf287d7358d9818e5fbc5
 W
 'src/main/java/com/thread/MyThread2.java,8\0\80e61c717ac1c718ce424910e8c67397d79f8203
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

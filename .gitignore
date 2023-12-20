@@ -11,6 +11,10 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea/
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/securityhotspotstore/index.pb
+.idea/**
 
 ### Eclipse ###
 .apt_generated
