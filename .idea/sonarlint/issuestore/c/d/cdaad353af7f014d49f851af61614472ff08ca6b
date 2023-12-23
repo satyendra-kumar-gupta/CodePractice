@@ -1,0 +1,17 @@
+
+k
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(äŒã°ýÿÿÿÿ
+f
+java:S36557"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ™ñŽ
+V	java:S125"<This block of commented-out lines of code should be removed.(”²°•ùÿÿÿÿ
+h
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„†ª›
+@	java:S106""+Replace this use of System.out by a logger.(”¯¶¦
+E	java:S106)"+Replace this use of System.out by a logger.(ÉŽæþÿÿÿÿ
+@	java:S106."+Replace this use of System.out by a logger.(ÒÁÖ„
+E	java:S1062"+Replace this use of System.out by a logger.(ŠÎŸÉùÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(æÃ­ùÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(§ö˜™
+E	java:S106G"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(†×¥­
+E	java:S106R"+Replace this use of System.out by a logger.(éé¡Üúÿÿÿÿ
