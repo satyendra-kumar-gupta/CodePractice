@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÚáÅ8ª¹‹·É1
+G	java:S106"+Replace this use of System.out by a logger.(ƒÇ’‹8¶¹‹·É1
+]	java:S125"<This block of commented-out lines of code should be removed.(Èá‹ıûÿÿÿÿ8º¹‹·É1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ğïèö8¾¹‹·É1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¿¹‹·É1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¿¹‹·É1

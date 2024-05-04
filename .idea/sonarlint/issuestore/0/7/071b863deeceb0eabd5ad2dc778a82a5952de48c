@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÚáÅ8ÜÙ¯‡Ê1
+c
+java:S1854?"ARemove this useless assignment to local variable "linkedHashMap".(êÏåƒıÿÿÿÿ8Ô¬»‡Ê1
+b
+java:S1854<"ERemove this useless assignment to local variable "concurrentHashMap".(ŒŸ¯8Ô¬»‡Ê1
+S
+java:S1481<"6Remove this unused "concurrentHashMap" local variable.(ŒŸ¯8Ù¬»‡Ê1
+T
+java:S1481?"2Remove this unused "linkedHashMap" local variable.(êÏåƒıÿÿÿÿ8Ú¬»‡Ê1
+G	java:S106G"+Replace this use of System.out by a logger.(€½ÿÿ8õÙ¯‡Ê1
+L	java:S106I"+Replace this use of System.out by a logger.(¬‘‡¾ıÿÿÿÿ8ƒªË‡Ê1
+G	java:S106K"+Replace this use of System.out by a logger.(˜˜8Ô˜Ñ‡Ê1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8É»Ï‡Ê1

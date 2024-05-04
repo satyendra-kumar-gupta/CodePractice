@@ -28,11 +28,11 @@ public class TripletSumPointerApproch {
             }
         }
 
-//        for(Integer[] arr1 : arrList){
-//            for(int i:arr1){
-//                System.out.print(i+" ,");
-//            }
-//            System.out.println();
-//        }
+        for(Integer[] arr1 : arrList){
+            for(int i:arr1){
+                System.out.print(i+" ,");
+            }
+            System.out.println();
+        }
     }
 }

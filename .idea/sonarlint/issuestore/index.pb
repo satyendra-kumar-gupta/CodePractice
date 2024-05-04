@@ -13,3 +13,42 @@ L
 src/main/java/test/Test.java,8\c\8c9125f3c269aa48980e46b4fcf2cd542c3ef107
 m
 =src/main/java/com/java8/FilteringCollectionByUsingStream.java,c\d\cdaad353af7f014d49f851af61614472ff08ca6b
+b
+2src/main/java/java8/mapandflatemap/MapExample.java,9\5\957e37184bcd59e03586bf98054440f80e31e40a
+\
+,src/main/java/java8/mapandflatemap/Book.java,f\e\fe188b0c3c92a6a1a8d35a396e156d2bc400db7e
+_
+/src/main/java/java8/mapandflatemap/BookDAO.java,0\7\075823cb0374ee69142cfe1233371cd120a07192
+c
+3src/main/java/java8/mapandflatemap/BookService.java,2\7\279c4bebe8e123aefe53d2e9f4ea3eb3bbc58a85
+k
+;src/main/java/java8/mapandflatemap/SecondHighestSalary.java,6\c\6cabe4d8187056f68cf9202604a119858e5fb71e
+p
+@src/main/java/java8/mapandflatemap/PrintEvenAndUsing2Thread.java,d\7\d71d2094b8d569ad670c2c956e7f10167e6e59f7
+h
+8src/main/java/java8/mapandflatemap/StreamAPIExample.java,a\d\adfcfcfc4e35e8e707681e4ebb741a4fdac1535b
+{
+Ksrc/main/java/java8/mapandflatemap/MapAsKayAsIntegerAndValuesAsAObject.java,0\7\071b863deeceb0eabd5ad2dc778a82a5952de48c
+O
+src/main/java/in/saty/Test.java,8\6\86652b689bb73c286648a9145c52638aa08d3fc4
+i
+9src/main/java/java8/mapandflatemap/TestStreamExample.java,b\f\bf78d61bfb2e2095b41b13f0b98f6991693cbb4a
+^
+.src/main/java/org/example/FindMiddleIndex.java,3\7\37157ddf351e3c8f59ae3b1abbe43c6fd7eb90ab
+j
+:src/main/java/java8/mapandflatemap/MajortyElementNby2.java,0\5\052dca41e896afb5d603df9df6055755177422e1
+a
+1src/main/java/java8/mapandflatemap/oops/Main.java,f\7\f7fc413e1c491ba06b8c1feb3ebc2def7d94494e
+O
+src/test/java/ExampleHello.java,a\f\af2f184fc5a76aad830ab3ec01bb6d371d067f2a
+h
+8src/main/java/codepre/FindGivenValueInInFiniteArray.java,d\c\dc9d0abceb8158cd34a5405b6c7926e5296f9279
+^
+.src/main/java/codepre/SortTheArrayElement.java,a\2\a26a4149308cc58bc5c8d140b0a94eb1e2a5742a
+g
+7src/main/java/org/example/TripletSumPointerApproch.java,6\d\6d707fcb766dd8456564974c46135312471098ba
+V
+&src/main/java/org/example/Triplet.java,b\3\b3b7696ffc451709af10df97dd03312f7c4892e1
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

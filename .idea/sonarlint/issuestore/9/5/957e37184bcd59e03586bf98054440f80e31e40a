@@ -1,0 +1,13 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "PV Sindhu" 3 times.(×ÖˆÀùÿÿÿÿ8 áƒÊ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÚáÅ8’ áƒÊ1
+U
+java:S1854"8Remove this useless assignment to local variable "set1".(ëİŞƒ8 áƒÊ1
+]	java:S125	"<This block of commented-out lines of code should be removed.(Ø¯¡—ûÿÿÿÿ8 áƒÊ1
+X	java:S125"<This block of commented-out lines of code should be removed.( âš¤8 áƒÊ1
+b
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(•¬ûµûÿÿÿÿ8¤ áƒÊ1
+F
+java:S1481")Remove this unused "set1" local variable.(ëİŞƒ8¥ áƒÊ1
+L	java:S106"+Replace this use of System.out by a logger.(Ëæ£‡úÿÿÿÿ8§ áƒÊ1

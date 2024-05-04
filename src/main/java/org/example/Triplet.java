@@ -1,6 +1,8 @@
+package org.example;
+
 import java.util.*;
 
-class Triplet {
+public class Triplet {
 
     // function to print triplets with 0 sum
     static void findTriplets(int arr[], int n, int target)

@@ -1,4 +1,9 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8´µÉ1
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶µÉ1
+L
+java:S1197	"*Move the array designators [] to the type.(÷ ”åşÿÿÿÿ8©À«²Ê1
+4
+java:S2757"Was "-=" meant instead?(½ıŠ8«À«²Ê1
+4
+java:S2757"Was "-=" meant instead?(½ıŠ8ÑÙÙ¹Ê1
+L	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8«À«²Ê1
+L	java:S106"+Replace this use of System.out by a logger.(ä¸‚úÿÿÿÿ8¬À«²Ê1

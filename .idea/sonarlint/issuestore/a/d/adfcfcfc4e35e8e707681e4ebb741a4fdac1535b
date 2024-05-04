@@ -1,0 +1,37 @@
+
+g
+java:S21843"ECast one of the operands of this subtraction operation to a "double".(Ì„ı¸ùÿÿÿÿ8£—†Ê1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÚáÅ8¤—†Ê1
+b
+java:S1854#"ERemove this useless assignment to local variable "streamOfArrayFull".(¬æä8³—†Ê1
+G	java:S106"+Replace this use of System.out by a logger.(áÏ¥­8¶—†Ê1
+L	java:S106"+Replace this use of System.out by a logger.(œñç†ÿÿÿÿÿ8·—†Ê1
+G	java:S106"+Replace this use of System.out by a logger.(¹§ËÏ8¸—†Ê1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¹§ËÏ8¸—†Ê1
+G	java:S106"+Replace this use of System.out by a logger.(—»Ó¸8º—†Ê1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(—»Ó¸8º—†Ê1
+S
+java:S1481#"6Remove this unused "streamOfArrayFull" local variable.(¬æä8»—†Ê1
+G	java:S106%"+Replace this use of System.out by a logger.(™ÿ£8¼—†Ê1
+o
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™ÿ£8¼—†Ê1
+G	java:S106*"+Replace this use of System.out by a logger.(Üà¦ÿ8¿—†Ê1
+o
+java:S6204*"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Üà¦ÿ8¿—†Ê1
+G	java:S106/"+Replace this use of System.out by a logger.(‰áİ8Á—†Ê1
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‰áİ8Á—†Ê1
+L
+java:S21403"*Use "java.util.Random.nextLong()" instead.(Ì„ı¸ùÿÿÿÿ8œĞ™†Ê1
+G	java:S1064"+Replace this use of System.out by a logger.(ÖÔ«â8Å—†Ê1
+o
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÖÔ«â8Å—†Ê1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8 Ğ™†Ê1
+_
+java:S1128"=Remove this unused import 'java.util.random.RandomGenerator'.(—›­úÿÿÿÿ8¡Ğ™†Ê1
+^
+java:S1128
+"<Remove this unused import 'java.util.stream.Stream.builder'.(èüŒ„ÿÿÿÿÿ8¡Ğ™†Ê1
